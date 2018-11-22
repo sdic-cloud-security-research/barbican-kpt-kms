@@ -1,0 +1,9 @@
+KPT Enabled Barbican Key Management System
+Copyright 2018 SDIC Group and Intel(R) Corporation
+
+Portion of this software were developed at Intel Labs (https://www.intel.com/intellabs)
+and SDIC Group (http://sdic.sjtu.edu.cn/)
+This software is a research proof of concept to demonstrate the use of KPT for 
+protecting Openstack Barbican key management system. 
+
+This software not intended for production use.

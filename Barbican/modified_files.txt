@@ -1,0 +1,18 @@
+Modified files list:
+bin/barbican-api
+barbican/api/controllers/secrets.py
+barbican/api/app.py
+barbican/api/controllers/versions.py
+barbican/model/models.py
+barbican/model/repositories.py
+barbican/plugin/crypto/crypto.py
+barbican/plugin/resources.py
+barbican/plugin/store_crypto.py
+etc/barbican/barbican-api-paste.ini
+
+
+New files list:
+barbican/api/controllers/inswk.py    
+barbican/api/controllers/wpkgen.py
+libkpttool.so
+
